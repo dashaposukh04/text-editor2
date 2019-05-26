@@ -151,7 +151,7 @@ body {
 }
 
 .editor__btn a {
-	color: blue;
+	color: #fff;
 	font-size: 1.2em;
 	opacity: .6;
 	transition: opacity .4s ease-in;
